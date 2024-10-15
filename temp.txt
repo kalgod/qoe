@@ -1,24 +1,35 @@
+Skipping ProxyFetcher due to No module named 'ballyregan'.
+519315
+Processing BigBuckBunny with title BigBuckBunny
+0 ['./dataset/sqoe3/BigBuckBunny/frames/0.png', './dataset/sqoe3/BigBuckBunny/frames/1.png', './dataset/sqoe3/BigBuckBunny/frames/2.png', './dataset/sqoe3/BigBuckBunny/frames/3.png', './dataset/sqoe3/BigBuckBunny/frames/4.png']
+```json
+[
+    {"frame": 0, "rating": 20},
+    {"frame": 1, "rating": 20},
+    {"frame": 2, "rating": 50},
+    {"frame": 3, "rating": 75},
+    {"frame": 4, "rating": 75}
+]
+```
 
-        3rd party proxy client detected. 
-        Updating environment variables ...
-        
-{'subscription': {'isActive': True, 'planType': 'yearly', 'id': 'U3Vic2NyaXB0aW9uOjIzMjA1MzU4MTg=', 'purchaseType': 'web', 'isComplimentary': False, 'expiresTime': 1737637621000000, 'willCancelAtPeriodEnd': False, 'isFreeTrial': False, 'purchaseRevocationReason': None}, 'messagePointInfo': {'messagePointResetTime': 1727049718000000, 'messagePointBalance': 649945, 'totalMessagePointAllotment': 1000000, 'id': 'TWVzc2FnZVBvaW50SW5mbzoyMzIwNTM1ODE4'}}
-Processing EE-bNr36nyA with title Paper Wasp Removal | From the Ground Up
-1 2.3
-2 2.05
-3 2.05
-4 2.15
-5 2.35
-6 1.5
-7 1.2
-8 1.2
-9 2.2
-10 2.25
-11 1.1
-12 1.4
-13 1.35
-14 1.3
-15 1.3
-16 2.6
-17 3.1
-18 2.85
+### Analysis and Explanation:
+
+**Frame 0 and Frame 1:**
+- **Content:** Both frames depict a serene landscape with lush greenery and trees.
+- **Analysis:** While visually appealing, these frames lack action or characters, making them less engaging.
+- **Rating:** 20 - These frames serve as an introduction, setting the scene but not capturing significant attention.
+
+**Frame 2:**
+- **Content:** A small animal, likely a squirrel, appears in the grass.
+- **Analysis:** The introduction of a character adds a point of interest, hinting at potential action or story development.
+- **Rating:** 50 - The presence of the animal increases curiosity about its actions or role.
+
+**Frame 3 and Frame 4:**
+- **Content:** Multiple animals are visible, indicating interaction or a developing scene.
+- **Analysis:** The addition of more characters suggests upcoming interactions or narrative progression, making these frames the most engaging.
+- **Rating:** 75 - The anticipation of interaction or conflict boosts viewer interest significantly.
+
+###################################################
+###################################################
+
+1 ['./dataset/sqoe3/BigBuckBunny/tmp/0.png', './dataset/sqoe3/BigBuckBunny/tmp/1.png', './dataset/sqoe3/BigBuckBunny/tmp/2.png', './dataset/sqoe3/BigBuckBunny/tmp/3.png', './dataset/sqoe3/BigBuckBunny/tmp/4.png', './dataset/sqoe3/BigBuckBunny/frames/5.png', './dataset/sqoe3/BigBuckBunny/frames/6.png', './dataset/sqoe3/BigBuckBunny/frames/7.png', './dataset/sqoe3/BigBuckBunny/frames/8.png', './dataset/sqoe3/BigBuckBunny/frames/9.png']
